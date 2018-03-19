@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "26330",
 "files": {
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/CHANGELOG.md": {
 		"cB": 0,
 		"cS": 0,
@@ -18,7 +24,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/CHANGELOG.html",
+		"oAP": "\/build\/CHANGELOG.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -31,14 +37,14 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/functions.php",
+		"oAP": "\/build\/functions.php",
 		"oF": 0
 		},
 	"\/images\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/favicon.ico",
+		"oAP": "\/build\/images\/favicon.ico",
 		"oF": 0
 		},
 	"\/js\/jquery.matchHeight.min.js": {
@@ -46,7 +52,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/jquery.matchHeight.min-min.js",
+		"oAP": "\/build\/js\/jquery.matchHeight.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -56,7 +62,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/responsive-menus-min.js",
+		"oAP": "\/build\/js\/responsive-menus-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -66,7 +72,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/responsive-menus.min-min.js",
+		"oAP": "\/build\/js\/responsive-menus.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -75,35 +81,35 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/languages\/genesis-sample.pot",
+		"oAP": "\/build\/languages\/genesis-sample.pot",
 		"oF": 0
 		},
 	"\/lib\/customize.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/customize.php",
+		"oAP": "\/build\/lib\/customize.php",
 		"oF": 0
 		},
 	"\/lib\/helper-functions.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/helper-functions.php",
+		"oAP": "\/build\/lib\/helper-functions.php",
 		"oF": 0
 		},
 	"\/lib\/output.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/output.php",
+		"oAP": "\/build\/lib\/output.php",
 		"oF": 0
 		},
 	"\/lib\/theme-defaults.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/theme-defaults.php",
+		"oAP": "\/build\/lib\/theme-defaults.php",
 		"oF": 0
 		},
 	"\/lib\/woocommerce\/genesis-sample-woocommerce.css": {
@@ -112,7 +118,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/lib\/woocommerce\/genesis-sample-woocommerce-min.css",
+		"oAP": "\/build\/lib\/woocommerce\/genesis-sample-woocommerce-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -121,7 +127,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/lib\/woocommerce\/js\/notice-update-min.js",
+		"oAP": "\/build\/lib\/woocommerce\/js\/notice-update-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -130,28 +136,28 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/woocommerce\/woocommerce-notice.php",
+		"oAP": "\/build\/lib\/woocommerce\/woocommerce-notice.php",
 		"oF": 0
 		},
 	"\/lib\/woocommerce\/woocommerce-output.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/woocommerce\/woocommerce-output.php",
+		"oAP": "\/build\/lib\/woocommerce\/woocommerce-output.php",
 		"oF": 0
 		},
 	"\/lib\/woocommerce\/woocommerce-setup.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/lib\/woocommerce\/woocommerce-setup.php",
+		"oAP": "\/build\/lib\/woocommerce\/woocommerce-setup.php",
 		"oF": 0
 		},
 	"\/page_landing.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/page_landing.php",
+		"oAP": "\/build\/page_landing.php",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -163,7 +169,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "\/build\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -176,7 +182,7 @@
 		"ft": 32768,
 		"iS": 458429,
 		"oA": 0,
-		"oAP": "\/screenshot.png",
+		"oAP": "\/build\/screenshot.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -189,7 +195,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/style-min-min.css",
+		"oAP": "\/build\/style-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -200,14 +206,14 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/style-min.css",
-		"oF": 0,
+		"oF": 3,
 		"oS": 3
 		},
 	"\/xml\/sample.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/xml\/sample.xml",
+		"oAP": "\/build\/xml\/sample.xml",
 		"oF": 0
 		}
 	},
@@ -475,7 +481,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -2371,7 +2377,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/build"
 	},
 "settingsFileVersion": "3"
 }
